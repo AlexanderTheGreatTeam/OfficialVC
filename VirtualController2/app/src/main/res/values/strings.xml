@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VirtualController</string>
+    <string name="action_settings">Settings</string>
+    <string name="welocme_message">Welocme,\nNew way to control your toy!</string>
+</resources>
